@@ -11,5 +11,5 @@ _Projectos de la asignatura estadística correspondiente a 4to año de la carrer
 ### TODO 🔩
 
 - _Terminar Informe de Fase 1_
-- _Agregar mas gráficos en la pregunta 2_ 
+- _Agregar más gráficos en la pregunta 2 Fase 1_ 
 
